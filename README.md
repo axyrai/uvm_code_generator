@@ -2,4 +2,4 @@
 
 python uvmGen.py <filename>
 
-eg python uvmGen.py ram
+eg. python uvmGen.py ram
